@@ -1,4 +1,4 @@
-baseURL: https://inspiring-beijinho-54e346.netlify.app/ # todo: change site url.
+baseURL: https://fabianbernal.netlify.app/ # todo: change site url.
 title: Fabian Bernal # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
